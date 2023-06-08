@@ -341,7 +341,7 @@
       "symbol": "Tc",
       "number": 43,
       "mass": 98,
-      unstable: true,
+      "unstable": true,
       "period": 5,
       "group": 7,
     },
